@@ -5,6 +5,8 @@
 
 # author: eric laurits #  Default is your site title.
 
+theme: jekyll-theme-persephone
+
 # # Your social accounts.
 # social:
 #   github: github_username
